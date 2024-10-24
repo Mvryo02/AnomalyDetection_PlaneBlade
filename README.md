@@ -3,6 +3,7 @@
 This prject aims to detect anomalies in a dataset of engine plane blade. For this problem two possible solution have been explored:
 - Autoencoder;
 - Autoencoder with resnet feature extraction.
+  
 We also  developed a classifier, in order to classify the anomalies after detecting one.
 
 In this repository it is possible to find: 
